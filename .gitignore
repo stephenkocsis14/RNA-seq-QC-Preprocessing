@@ -1,0 +1,8 @@
+*.fastq
+*.bam
+*.sam
+qc_reports/
+data/trimmed/
+data/aligned/
+data/counts/
+
