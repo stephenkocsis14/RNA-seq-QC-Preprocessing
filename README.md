@@ -27,5 +27,5 @@ Clone the repository and install the required dependencies.
 
 ```bash
 git clone https://github.com/your-username/RNASeq-QC-Preprocessing.git
-cd RNASeq-QC-Preprocessing
+cd RNA-seq-QC-Preprocessing
 
